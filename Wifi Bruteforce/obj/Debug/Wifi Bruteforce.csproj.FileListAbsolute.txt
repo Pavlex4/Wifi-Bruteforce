@@ -1,0 +1,11 @@
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\Wifi Bruteforce\Wifi Bruteforce\obj\Debug\Wifi Bruteforce.csprojResolveAssemblyReference.cache
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\Wifi Bruteforce\Wifi Bruteforce\obj\Debug\Wifi_Bruteforce.Form1.resources
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\Wifi Bruteforce\Wifi Bruteforce\obj\Debug\Wifi_Bruteforce.Properties.Resources.resources
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\Wifi Bruteforce\Wifi Bruteforce\obj\Debug\Wifi Bruteforce.csproj.GenerateResource.Cache
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\Wifi Bruteforce\Wifi Bruteforce\bin\Debug\Wifi Bruteforce.exe.config
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\Wifi Bruteforce\Wifi Bruteforce\bin\Debug\Wifi Bruteforce.exe
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\Wifi Bruteforce\Wifi Bruteforce\bin\Debug\Wifi Bruteforce.pdb
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\Wifi Bruteforce\Wifi Bruteforce\bin\Debug\ManagedWifi.dll
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\Wifi Bruteforce\Wifi Bruteforce\bin\Debug\SimpleWifi.dll
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\Wifi Bruteforce\Wifi Bruteforce\obj\Debug\Wifi Bruteforce.exe
+c:\users\pavle\onedrive\documents\visual studio 2017\Projects\Wifi Bruteforce\Wifi Bruteforce\obj\Debug\Wifi Bruteforce.pdb
